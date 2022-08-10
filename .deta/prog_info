@@ -1,0 +1,1 @@
+{"id":"863b1d2e-44ee-410d-beba-b3bd9e84a225","space":27294,"runtime":"python3.9","name":"Day3","path":"xuc81a","project":"c0bfbifk","account":"144798365827","region":"ap-southeast-1","deps":["fastapi","uvicorn","sqlalchemy","passlib","bcrypt","python-jose","pycrypto","Crypto","python-multipart"],"envs":null,"public":true,"log_level":"debug","cron":""}
